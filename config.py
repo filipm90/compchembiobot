@@ -19,7 +19,8 @@ logger = logging.getLogger()
 keys = {"api": "", #API key
         "api_secret": "", #API key secret
         "token": "", #Access token
-        "token_secret": "" #Access token secret}
+        "token_secret": "" #Access token secret
+       }
 
 def create_api():
 
